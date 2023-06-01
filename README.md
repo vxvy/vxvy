@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 💮💮💮
 
-<!--
-**vxvy/vxvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since a lot of you asked me for a repository, there I go one more time.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this github you will find:
+```
+ - A REST vs gRPC project.
+
+ - The kotlin repository for my storyTeller apk.
+ 
+ - Old Excercises and unfinished projects.
+```
+
+But, as I am working in my ✨java11 cert✨, that will be in a time from now.
+
+
+You can check on me as well in linkedIn, here is my profile: [🪩](https://www.linkedin.com/in/vancuaviz/)
+
+- ⚡ Fun fact: I've got a really cute 🌈 blueberry bush 🌈
