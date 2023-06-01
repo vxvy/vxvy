@@ -11,7 +11,7 @@ In this github you will find:
 
  - The kotlin repository for my storyTeller apk.
  
- - Old Excercises and unfinished projects.
+ - Some Excercises and unfinished projects :')
 ```
 
 >But, as I am working in my 🔰**java11 cert**🔰, that will be in a time from now.
