@@ -65,7 +65,7 @@ Sadly at job's commits are not included >:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vxvy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vancuaviz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://yourportfolio.com](https://dummyimage.com/1080x720/000/fff&text=work_on_progress))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dummyimage.com/1080x720/000/fff&text=work_on_progress)
 
 ## 💡 Fun Fact
 
