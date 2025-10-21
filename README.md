@@ -1,5 +1,5 @@
 ### Hi there 💮💮💮
-# I'm Vanessa Cuartiella Vizcarro 👋
+# I'm Vanessa Cuartiella Vizcarro 👋 Currently located in Vigo
 
 ## 🚀 About Me
 
