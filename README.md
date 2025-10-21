@@ -45,8 +45,8 @@ I'm a passionate Full Stack Developer specialized in building robust and scalabl
 - Clean Architecture
 - Domain-Driven Design (DDD)
 - RESTful API Design
-- MvvM
-- MVC Pattern
+- MvvM (Model-View-ViewModel)
+- MVC (Model-View-Controller)
 
 ## 🔧 What I'm Working On
 
