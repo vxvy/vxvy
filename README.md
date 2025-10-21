@@ -56,6 +56,7 @@ I'm a passionate Full Stack Developer specialized in building robust and scalabl
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vxvy&show_icons=true&theme=radical)
+Sadly at job's commits are not included >:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vxvy&layout=compact&theme=radical)
 
